@@ -1,0 +1,56 @@
+body{
+
+background-color: #ADD8E6;}
+
+
+h1{
+text-align:center;}
+
+table{
+
+text-align: center;
+margin:0 auto;
+background-color: #b51700;
+
+border-spacing: 0;
+
+border-color: #412E2A;
+
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+font-size: 15px;
+
+
+}
+
+
+
+a{
+color:#412E2A;
+}
+
+.i1{
+width: 150px;
+
+height: 150px;
+border-radius:10px;
+
+
+}
+
+
+img{
+width: 150px;
+
+height: 150px;
+border-radius:10px;
+
+}
+
+div{
+background-color: #red;
+
+}
+
+
